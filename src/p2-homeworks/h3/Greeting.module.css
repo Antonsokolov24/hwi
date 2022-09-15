@@ -1,0 +1,44 @@
+.someClass {
+
+}
+
+.greeting {
+    display: flex;
+    align-items: center;
+}
+
+.error {
+    border: 1px solid red;
+    color: red;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.input {
+    margin: 10px;
+    background: #033006;
+    color: #C4DEC1;
+}
+
+.input:focus {
+    border: #C4DEC1 solid 2px;
+}
+
+.errorInput {
+    margin: 10px;
+    background: #033006;
+    color: #C4DEC1;
+    border: 1px solid red;
+    outline: none;
+}
+.button {
+    margin: 10px;
+    width: 50px;
+    border: #033006;
+    color: #C4DEC1;
+    outline: none;
+    background: #033006;
+}
+s.totalUsers {
+    margin: 10px;
+}
